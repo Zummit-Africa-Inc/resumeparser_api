@@ -10,7 +10,7 @@ Some of the use cases:
 - Improve your talent pool.
 - Save time and energy.
 - Remove all manual interventions. Remove all privacy concerns.
-- Close open positions more quickly
+- Close open positions more quickly.
 
 ```
 
