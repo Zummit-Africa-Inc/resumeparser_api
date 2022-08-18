@@ -76,5 +76,3 @@ The module would return a dictionary with result as follows:
      'total_exp': 3,
      'university': ['Harvard University', 'Yale university', 'Howard university']}
 ```
-
-[<img alt="alt_text"  src="coffee.png" />](https://www.payumoney.com/paybypayumoney/#/147695053B73CAB82672E715A52F9AA5)
