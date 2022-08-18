@@ -2,6 +2,17 @@
 ![](https://github.com/Zummit-Africa-Inc/resumeparser_api/blob/main/resume-parsing_diagram.png)
 With this API, users/companies can take a resume as an input, which can be in PDF or MS Word format, and convert it into a structured JSON data format.
 
+```
+# Use cases
+
+Some of the use cases:
+- Resumes may be searched, sorted, and saved.
+- Improve your talent pool.
+- Save time and energy.
+- Remove all manual interventions. Remove all privacy concerns.
+- Close open positions more quickly
+
+```
 
 ```
 # Features
