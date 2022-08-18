@@ -1,4 +1,5 @@
 # Resume parser
+![](https://github.com/Zummit-Africa-Inc/resumeparser_api/blob/main/resume-parsing_diagram.png)
 With this API, users/companies can take a resume as an input, which can be in PDF or MS Word format, and convert it into a structured JSON data format.
 
 
