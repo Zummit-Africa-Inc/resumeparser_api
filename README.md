@@ -1,9 +1,6 @@
 # Resume parser
-```
-A resume parser used for extracting information from resumes
+With this API, users/companies can take a resume as an input, which can be in PDF or MS Word format, and convert it into a structured JSON data format.
 
-
----
 
 
 # Features
@@ -23,7 +20,7 @@ A resume parser used for extracting information from resumes
 - You can install this package using
 
 ```bash
-pip install resume-parser
+pip install resume_parser
 ```
 
 # Supported File Formats
